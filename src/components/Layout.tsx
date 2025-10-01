@@ -147,3 +147,7 @@ export default function Layout() {
     </div>
   )
 }
+
+
+
+// This is updated code just checking out conflicts 
